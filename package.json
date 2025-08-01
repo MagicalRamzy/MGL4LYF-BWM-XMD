@@ -1,5 +1,5 @@
 {
-  "name": "Bwmxmd",
+  "name": "MGL4CŒDĒX",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -24,7 +24,7 @@
     "whatsapp-bot",
     "Ibrahim-Adams"
   ],
-  "author": "Ibrahim Adams",
+  "author": "MGL4CŒDĒX",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
