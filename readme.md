@@ -1,4 +1,5 @@
 
+
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -28,10 +29,10 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://www.ibrahimadams.site/scanner" target="_blank" rel="noopener noreferrer">
+  <a href="https://main.bwmxmd.online/scanner" target="_blank" rel="noopener noreferrer">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
-  <a href="https://www.ibrahimadams.site/Deploy" target="_blank" rel="noopener noreferrer">
+  <a href="https://main.bwmxmd.online/Deploy" target="_blank" rel="noopener noreferrer">
     <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
@@ -39,7 +40,7 @@
   <a href="https://render.com" target="_blank" rel="noopener noreferrer">
     <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
-  <a href="https://ibrahimadams.site/Panel_files" target="_blank" rel="noopener noreferrer">
+  <a href="https://main.bwmxmd.online/Panel_files" target="_blank" rel="noopener noreferrer">
     <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
   </a>
 </p>
@@ -83,7 +84,7 @@
 
 <!-- More Button -->
 <p align="center">
-  <a href="https://bwmxmd.oneline" target="_blank" rel="noopener noreferrer">
+  <a href="https://bwmxmd.online" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/For%20more%2C%20Tap%20Here-00ffaa?style=for-the-badge&logo=internet-explorer&logoColor=white" width="340" height="50" alt="For more tap here"/>
   </a>
 </p>
